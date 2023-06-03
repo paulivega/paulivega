@@ -6,7 +6,7 @@ I´m Pauli Vega, Front-End Developer.
 
 * 🌍  I'm based in Santiago, Chile.
 * ✉️  You can contact me at [paulina.vegac@gmail.com](mailto:paulina.vegac@gmail.com)
-* 🌱 I’m currently learning JavaScript
+* 🌱 I’m currently learning JavaScript.
 * ⚡  I love scuba diving, boardgames and build things.
 
 ```javascript
