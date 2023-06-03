@@ -9,6 +9,22 @@ I´m Pauli Vega, Front-End Developer.
 * 🌱 I’m currently learning JavaScript
 * ⚡  I love scuba diving, boardgames and build things.
 
+```javascript
+  const do_It = (dream, believe) => {
+  
+    const result = '';
+    if (dream && !believe) {
+        result = 'Flying';
+    } else if (dream && believe) {
+        result = 'This is the way';
+    } else {
+        result = 'You can do it';
+    }
+    return result
+    };
+
+```
+
 
 ### Skills
 
