@@ -1,5 +1,4 @@
-### Hello Hello 👋 !!
-### Buenas Buenas 👋 !!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DF75D&background=4E82FF00&vCenter=true&multiline=true&width=435&height=80&lines=Hello%2C++Hello+%F0%9F%91%8B+!!+;Buenas+Buenas+%F0%9F%91%8B+!!)](https://git.io/typing-svg)
 
 I´m Pauli Vega, Front-End Developer.
 
